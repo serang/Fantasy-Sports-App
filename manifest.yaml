@@ -1,0 +1,17 @@
+info:
+  title: 'NBA DraftKings Lineup Optimizer'
+  description: 'Use Linear Programming on DraftKing Salaries and AvgPPG to determine best line up'
+  x-21-quick-buy: '21 buy url http://10.244.208.34:5000/draftkings'
+  x-21-category: utilities
+  x-21-app-image: "https://cdn.filepicker.io/api/file/p7LikWgtSEeI8y6IQBBA"
+  x-21-total-price:
+    min: 1000
+    max: 1000
+  contact:
+    name: Stefan Tian
+    email: amano767@gmail.com
+host: 10.244.208.34:5000
+schemes:
+  - http
+basePath: /
+x-21-manifest-path: /manifest
